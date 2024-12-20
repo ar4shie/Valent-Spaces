@@ -1,2 +1,2 @@
 # Valent-Spaces
-Welcome to Valent Spaces: Personal Insights, Keyboard Projects, and Collections.
+Untuk Menyelesaikan Tugas Akhir Pemrograman Website
